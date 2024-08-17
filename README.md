@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FelipeDias
-- 👀 I’m interested in programming
 - 🌱 I'm currently focusing on C#, .NET...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email: felipedias.101@outlook.com or by [LinkeIn](https://www.linkedin.com/in/felipe-dias-377268250/)
 
 <!---

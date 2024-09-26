@@ -1,9 +1,9 @@
 ```csharp
 namespace About;
 
-public abstract class AboutMe
+public static class AboutMe
 {
-    public static void Main()
+    public static void WhoAmI()
     {
         string name = "Felipe Dias";
         string student = "Software Developer";
